@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1032
     wikipedia: http://en.wikipedia.org/wiki/G._A._Henty
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/4931#Won-By-the-Sword---a-tale-of-the-Thirty-Years-War
 gutenberg_bookshelf:
 - Children's Fiction
 - Historical Fiction
